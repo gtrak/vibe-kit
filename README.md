@@ -45,7 +45,7 @@ Each tool should be standalone and replaceable. To that end, I will aim for self
 _also_ integrate multiple tools into more monolithic assemblies, but the components will remain simple and each will do one clearly-defined thing well.
 
 ### Favor Determinism
-I see a trend of AI-related tools making assumptions and requirements on LLM models, that is they will fall apart if a model is insufficient.  I worry 
+I see a trend of AI-related tools making assumptions and requirements on LLM models, falling apart if a model is insufficient.  I worry 
 that also means those tools can't ever be considered reliable, and I avoid using them. I think that is the least efficient way to do anything going 
 forward. Instead, I prefer to make code artifacts with proper test coverage to do specific tasks.  Even if I don't read all the code, I can rest assured 
 it will work the same way tomorrow as it did today.  It's better to have the LLM write the code to do the task than it is to have the LLM do the task.
