@@ -1,5 +1,5 @@
 The code here and in related repositories is an ongoing experiment and hobby platform for myself. It is mostly vibe-coded, but I do
-intend to review and iterate on these implementations with more LLM help or sometimes manually.  Anything you see here is something I
+intend to review and iterate on these implementations with more LLM help, sometimes manually.  Anything you see here is something I
 feel confident about representing the intent I had when I started, but I don't know if it's a meaningful improvement or even not-awful 
 until I attempt to use it in service of some other work.
 
