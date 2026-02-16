@@ -6,3 +6,7 @@
 	path = mcp-cli-rs
 	url = https://github.com/gtrak/mcp-cli-rs
 	branch = main
+[submodule "hashline-tools"]
+	path = hashline-tools
+	url = https://github.com/gtrak/hashline-tools
+	branch = main
