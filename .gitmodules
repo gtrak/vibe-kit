@@ -1,0 +1,4 @@
+[submodule "cargo-doc-query"]
+	path = cargo-doc-query
+	url = https://github.com/gtrak/cargo-doc-query
+	branch = main
