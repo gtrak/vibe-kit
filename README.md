@@ -11,11 +11,11 @@ evolution of 3D printing, with rich communities sharing recipes.
 
 ## Guiding principles
 ### Open-source/Local-first
-To avoid vendor lock-in, and an eventual rug-pull in the form of censorship or price gouging, I test all the tools
-I use the open LLMs I can run locally, even if I don't always use them to get work done.  If an approach helps the
-development experience with a dumber model, it will likely scale up fine to smart ones.
+To avoid vendor lock-in and an eventual rug-pull in the form of censorship or price gouging, I test all the tools
+I use on open LLMs I can run locally, even if I don't always use those models to get actual work done.  
 
-I can iterate and test approaches without worrying too much about token spend.
+If an approach helps the development experience with a dumber model, it will likely scale up fine to smart ones. I
+can iterate and test approaches without worrying too much about token spend this way.
 
 I think Open Source as a whole might start to suffer soon due to contributions no longer feeding upstream. The
 incentives will be gone on both sides.  On the other hand, developers will maintain forks and patches of all 
